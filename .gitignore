@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+### CodeSniffer template
+# gitignore for the PHP Codesniffer framework
+# website: https://github.com/squizlabs/PHP_CodeSniffer
+#
+# Recommended template: PHP.gitignore
+
+/wpcs/*
+
+.gitignore
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/pyTutorial.iml
+main.py
+tkinter/
+venv/
